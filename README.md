@@ -1,6 +1,2 @@
-![test](https://capsule-render.vercel.app/api?type=Waving&color=0:F9A8FF,100:97FFFF&height=150&animation=fadeIn&section=header&text=Hello%20there%20w=&fontSize=30&fontColor=ffb8db)
-
-<p align="center">
-  <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=FallenCrystal&count_private=true&card_width=400&title_color=FF69B4&line_height=25&text_color=885566&bg_color=FFFFFF">
-  <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api/wakatime?username=FallenCrystal&langs_count=6&title_color=FF69B4&text_color=885566&bg_color=FFFFFF&layout=compact">
-</p>
+![test](https://capsule-render.vercel.app/api?type=Waving&color=0:F9A8FF,100:97FFFF&height=150&animation=fadeIn&section=header&text=Hello%20there%20w=&fontSize=30&fontColor=ffb8db)  
+![Metrics](https://metrics.lecoq.io/FallenCrystal?template=classic&lines=1&repositories=1&achievements=1&activity=1&isocalendar=1&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&stars=false&stars.limit=2&repositories=false&repositories.pinned=2&repositories.starred=0&repositories.random=0&repositories.order=pinned%2C%20featured%2C%20starred&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FShanghai)
