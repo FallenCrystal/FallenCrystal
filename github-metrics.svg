@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1659" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2071" class="">
     <defs>
         <style/>
     </defs>
@@ -213,6 +213,114 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 19 commits in
+                                        <span class="repo">FallenCrystal/Sonar</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">address-from-network-manager</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#951b8d7</div>
+                                        <div class="message">Merge branch 'jonesdevelopment:main' into address-from-network-manager</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 18 commits in
+                                        <span class="repo">FallenCrystal/Sonar</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4d206af</div>
+                                        <div class="message">Don't allow players to send empty packets</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2ff7b7e</div>
+                                        <div class="message">Fix gravity check false positive on 1.7</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a5efc1c</div>
+                                        <div class="message">Recode Y position and gravity calculation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#85d5ce7</div>
+                                        <div class="message">Implement SetPlayerRotationPacket packet order check</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6c4d4b7</div>
+                                        <div class="message">Implement PaddleBoatPacket packet order check</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#364b1c5</div>
+                                        <div class="message">Optimize image RGB buffer writing</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4edf04e</div>
+                                        <div class="message">Randomize some placeholder variables during login</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#01da1a7</div>
+                                        <div class="message">Remove useless PlayerInfoPacket</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9bb7c7c</div>
+                                        <div class="message">Only log expired database entries if there are any</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aaa7588</div>
+                                        <div class="message">Don't load the database driver twice</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8d378d5</div>
+                                        <div class="message">Use regular JdbcConnectionSource, not pooled</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#476b170</div>
+                                        <div class="message">VarInt encoding optimizations (https://github.com/PaperMC/Velocity/commit/f034c0277d60e9f0a80e484832aec831cbc298f7)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#26c31ce</div>
+                                        <div class="message">VarInt reading optimizations (https://github.com/PaperMC/Velocity/pull/1418)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40f65ef</div>
+                                        <div class="message">Rename 1.16(.2) codecs for more clarity</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7736ccf</div>
+                                        <div class="message">Fix multiple block types being incorrect on 1.16</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#437a547</div>
+                                        <div class="message">[ci skip] Fix translation errors in copyright notice</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4ec6521</div>
+                                        <div class="message">[ci skip] Remove unused configuration entries</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#de45e9f</div>
+                                        <div class="message">Mention TransferTool for Geyser in the config</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -611,7 +719,7 @@ Co-authored-by: Akkariin &lt;fallencrystal@outlook.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5.516769336071185 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5.728952772073921 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -647,7 +755,7 @@ Co-authored-by: Akkariin &lt;fallencrystal@outlook.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="147.98994974874373 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="148.76884422110552 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -669,7 +777,7 @@ Co-authored-by: Akkariin &lt;fallencrystal@outlook.com&gt;</div>
                                     <span class="prefix"></span>
                                     Deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 191 times</div>
+                                <div class="text">Repositories have been deployed 192 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -707,7 +815,7 @@ Co-authored-by: Akkariin &lt;fallencrystal@outlook.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 8.45m out of 143m users</span>
+                                    <span class="gh">ranked 8.46m out of 144m users</span>
                                 </div>
                                 <div class="text">Published 8 public repositories</div>
                             </div>
@@ -800,7 +908,7 @@ Co-authored-by: Akkariin &lt;fallencrystal@outlook.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.18m out of 143m users</span>
+                                    <span class="gh">ranked 1.18m out of 144m users</span>
                                 </div>
                                 <div class="text">Followed by 13 users</div>
                             </div>
@@ -1089,7 +1197,7 @@ Co-authored-by: Akkariin &lt;fallencrystal@outlook.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Sept 2024, 09:37:07 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Sept 2024, 09:26:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
