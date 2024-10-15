@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1264" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2088" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}.gauge text,h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.field.language{margin:0 8px;flex-grow:0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1016 Commits
+                            1017 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -217,12 +217,324 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Made
-                                        <span class="repo">FallenCrystal/UtopiaFix</span>
-                                        public
+                                        Created new
+                      branch
+                                        <span class="code">1.21.2-pre3-support</span>
+                                        in
+                                        <span class="repo">FallenCrystal/Sonar</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 68 commits in
+                                        <span class="repo">FallenCrystal/Sonar</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">address-from-network-manager</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#bde637c</div>
+                                        <div class="message">Exempt Bedrock players from packet order checks</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cb1c62f</div>
+                                        <div class="message">Fix max total packets false positive on 1.7-1.8</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3727742</div>
+                                        <div class="message">Add CaptchaGenerationStartEvent, CaptchaGenerationEndEvent</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f79bb38</div>
+                                        <div class="message">Remove a debug message</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7d60ba8</div>
+                                        <div class="message">Fix custom CAPTCHA background image not working</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cec7fa0</div>
+                                        <div class="message">Fix another potential false positive with Geyser</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2be2380</div>
+                                        <div class="message">Fix invalid login mappings for 1.18-1.18.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ae99ade</div>
+                                        <div class="message">Bump com.gradleup.shadow from 8.3.0 to 8.3.1 (#382)
+
+Bumps [com.gradleup.shadow](https://github.com/GradleUp/shadow) from 8.3.0 to 8.3.1.
+- [Release notes](https://github.com/GradleUp/shadow/releases)
+- [Commits](https://github.com/GradleUp/shadow/compare/8.3.0...8.3.1)
+
+---
+updated-dependencies:
+- dependency-name: com.gradleup.shadow
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#59731a9</div>
+                                        <div class="message">Release 2.1.7 (#381)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ace55fb</div>
+                                        <div class="message">Fix a small compilation error</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#696d3c5</div>
+                                        <div class="message">Fix some Bedrock false positives</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a1e4ea3</div>
+                                        <div class="message">Fix exception while serializing JsonArray (https://github.com/PaperMC/Velocity/pull/1426)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b054bd</div>
+                                        <div class="message">Fix invalid block mappings for 1.14-1.14.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c8e2142</div>
+                                        <div class="message">Cap username length in LoginSuccess (clientbound)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1cf7ef6</div>
+                                        <div class="message">Add invalid window ID check to transactions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#af8aa10</div>
+                                        <div class="message">Randomize some more position-related values</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d1f2c15</div>
+                                        <div class="message">Fix a false positive with the moved too far check</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5a68c4d</div>
+                                        <div class="message">Added another vehicle Y position check</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1438856</div>
+                                        <div class="message">Release 2.1.6 (#379)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#694725b</div>
+                                        <div class="message">Implement more interactionless checks (#378)
+
+* Add minecart entity
+
+* Add `VehicleMovePacket`
+
+* Add `Animation` packet
+
+* Add animation check.
+
+* Fix the wrong entity minecart id for 1.21
+
+* Add minecart for vehicle check.
+
+* Exempt minecart check for 1.7-1.8 clients.
+
+* Fix minecart id for lower than minecraft version 1.14.
+
+* Fix wrong minecart entity id for 1.15
+
+* Add missing license header
+
+* Exempt animation check for 1.7.2 client due unknown disconnect error.
+
+* style: small code style improvements
+
+* style: even more style improvements
+
+* refactor: inline some stuff
+
+* style: small code cleanup
+
+* fix: slot check not working in the first place
+
+* style: don't use return; use an if-else block
+
+* Fix animation check not working on 1.7.2+
+
+* style: minor code style improvements
+
+* fix: lombok compile error
+
+* style: minor code style adjustments
+
+* fix: optimize AnimationPacket
+
+* fix: don't reassign unnecessary hand value
+
+* style: code style fixes in *types
+
+* style: add some comments to the *types
+
+* [ci skip] style: small code style improvements
+
+* Don't exempt 1.7-1.8 from the Minecart check
+
+---------
+
+Co-authored-by: Jones &lt;admin@jonesdev.xyz&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">update-zh-lang</span>
+                                        in
+                                        <span class="repo">FallenCrystal/Sonar</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">more-verification</span>
+                                        in
+                                        <span class="repo">FallenCrystal/Sonar</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 48 commits in
+                                        <span class="repo">FallenCrystal/Sonar</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e36ba98</div>
+                                        <div class="message">Hide secure-chat toast from 1.20.5+ clients</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40bceb7</div>
+                                        <div class="message">Use the modern way of registering Velocity commands</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2d3bf91</div>
+                                        <div class="message">Recode bandwidth statistic handling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#45ab258</div>
+                                        <div class="message">Fix upload-artifacts unable to find artifacts</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6002776</div>
+                                        <div class="message">General project base refactoring</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6918afa</div>
+                                        <div class="message">JAR Downloads via GitHub Actions (#384)
+
+* Update gradle.yml
+
+* Update gradle.yml
+
+* fix: smaller improvements to CI
+
+* fix: wildcard pattern breaking CI
+
+* fix(ci): revert wildcard patterns
+
+---------
+
+Co-authored-by: Jones &lt;admin@jonesdev.xyz&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#07cfc4a</div>
+                                        <div class="message">Randomize X and Z positions in vehicle check</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#65eb9a5</div>
+                                        <div class="message">Fix potential issue in the vehicle handler</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5d7cc1</div>
+                                        <div class="message">Small collision check improvements</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2cb0a48</div>
+                                        <div class="message">Add some more smaller movement validations</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#646f296</div>
+                                        <div class="message">Don't notify the channel about unhandled packets</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a698c26</div>
+                                        <div class="message">Fix the 1.7.2-1.7.10 minimum Y coordinate issue</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#25136d6</div>
+                                        <div class="message">Small micro-optimizations in the packet registry</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ee4b1ff</div>
+                                        <div class="message">Optimize processing of queued logins</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe14583</div>
+                                        <div class="message">Use a better-suited data type for connected players</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#47100f4</div>
+                                        <div class="message">Bump Gradle from 8.10 to 8.10.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5731199</div>
+                                        <div class="message">Set Gradle groupId to `xyz.jonesdev`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7ad8e48</div>
+                                        <div class="message">Bump bungeecord-proxy from master-SNAPSHOT to 1.21-SNAPSHOT</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#154d999</div>
+                                        <div class="message">Bump velocity-proxy from 3.3.0-SNAPSHOT to 3.4.0-SNAPSHOT</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bde637c</div>
+                                        <div class="message">Exempt Bedrock players from packet order checks</div>
                                     </div>
                                 </div>
                             </section>
@@ -249,7 +561,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.5 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.71218343600273 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -324,7 +636,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="14.466666666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="14.983333333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -346,7 +658,7 @@
                                     <span class="prefix">Great</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 228 times</div>
+                                <div class="text">Repositories have been deployed 229 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -384,7 +696,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 7.71m out of 146m users</span>
+                                    <span class="gh">ranked 7.72m out of 146m users</span>
                                 </div>
                                 <div class="text">Published 9 public repositories</div>
                             </div>
@@ -798,7 +1110,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Oct 2024, 09:38:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Oct 2024, 09:37:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
