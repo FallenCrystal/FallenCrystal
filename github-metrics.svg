@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1554" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1641" class="">
     <defs>
         <style/>
     </defs>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            440 issue comments
+                            441 issue comments
                         </div>
                     </section>
                     <section>
@@ -221,6 +221,36 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#414 Bug Report: Vehicle check false positive</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by zhuyanlei2010 in <span class="repo">jonesdevelopment/sonar</span></div>
+                                    <div class="comment">
+                                        <b>Some suggestions:</b>
+                                        <b>Provide more information and details (for those players who are experiencing the issue):</b>
+                                        If client installed ViaFabricPlus. Don't use it (or select the version that matches the client in the menu. To open the version selection menu. Click the button that says ViaFabricPlus in the upper right corner of the multiplayer screen.)
+If don't have the TweakMyClient mod installed. And the disconnect screen contains a button that says
+                                        <code>Open Report Directory</code>
+                                        (打开报告目录). Clicking on it will take you to the explorer. Then upload the selected file here.
+If no logs can be provided. Please provide at least the mods that have installed or the modpack you are using.
+The timing of the client disconnection is important. For example, Stuck in the screen loading the terrain, Forced to disconnect almost immediately. Or is it because Sonar didn't do the next step of verification, and it stayed for a while before disconnecting?
+                                        <b>For server adminstrator (or yourself):</b>
+                                        If you don't have your own server to test the issue (i.e. you have to test the issue in production). Configuring a database prevents all verified players who are joining from being required to verify caused by you restart the server or reload sonar. If you are not familiar with or do not have SQL database installed. H2 can be used.
+Look for the player(s) who reported the issue and ask them to test again.
+Provide more accurate information if you can. (e.g. You mentioned if they failed vehicle verification. A map captcha will be required. But this is only case if player fails in the gravity or collision check  and the verification.checks.gravity.captcha-on-fail option is true in the config. Or you just always ask player to complete map captcha.)
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#414 Use Vehicle Can't Pass</span>
                                     </div>
                                 </div>
@@ -333,7 +363,7 @@ Update dependency org.projectlombok:lombok to v1.18.36</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.04620123203283 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.25838466803556 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -369,7 +399,7 @@ Update dependency org.projectlombok:lombok to v1.18.36</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="35.13333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="35.65 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -391,7 +421,7 @@ Update dependency org.projectlombok:lombok to v1.18.36</div>
                                     <span class="prefix">Great</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 268 times</div>
+                                <div class="text">Repositories have been deployed 269 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -882,7 +912,7 @@ Update dependency org.projectlombok:lombok to v1.18.36</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Nov 2024, 09:38:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Nov 2024, 09:47:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
