@@ -66,7 +66,7 @@ If I'm not playing vanilla and the version I'm playing supports it.
 
 ### Do you know?
 
-- If you don't know how to come up with a good name for your project. I'll tell you about a flower that I like. Seriously. 
+- If you don't know how to come up with a good name for your project. I'll tell you a flower name that I like. Seriously. 
 I don't like the words "Ultimate" or "Epic" to appear in the name of a project.
 - I write code to pass the time when I don't want to play for a while.
-- I drink black coffee just one way to like it. I never go to coffee just to stay awake.
+- I drink black coffee, but I never go to coffee just to stay awake.
