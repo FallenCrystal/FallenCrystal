@@ -7,13 +7,11 @@
 
 Have never written Android and Spring applications.
 
-- Minecraft Mods (Fabric, Forge)
-- Minecraft Plugin (Paper & Bukkit, BungeeCord & Velocity)
-- Discord Bot (JDA)
-- Netty & Minecraft Protocol
-- Automated browser (Selenium & Playwright)
-- Java bytecode (ASM)
-- ~~Claude Code & Codex~~ (Preventing them from making mistakes is a skill)
+~~Can write Minecraft Mods/Plugins, Discord Bot (JDA), Netty, Playwright, Java bytecode (ASM), etc.~~
+
+Now currently using coding agent (Antigravity, Codex, etc)
+
+[有一只被踩会发出奇怪动静的小宠物?](https://github.com/YueBao-Idiot)
 
 ## Projects
 
